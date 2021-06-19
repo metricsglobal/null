@@ -1,5 +1,5 @@
-module github.com/volatiletech/null/v8
+module github.com/metricsglobal/null
 
-go 1.14
+go 1.16
 
 require github.com/volatiletech/randomize v0.0.1
