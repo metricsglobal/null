@@ -20,7 +20,7 @@ please stop using gopkg.in and ensure you're using `vgo`, `dep` or vendoring to
 version null.
 
 ```
-go get github.com/volatiletech/null/v8
+go get github.com/metricsglobal/null
 ```
 
 ### Usage
