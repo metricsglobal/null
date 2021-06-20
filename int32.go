@@ -8,7 +8,7 @@ import (
 	"math"
 	"strconv"
 
-	"github.com/volatiletech/null/v8/convert"
+	"github.com/metricsglobal/null/convert"
 	"github.com/volatiletech/randomize"
 )
 
